@@ -3,7 +3,7 @@ import { createApi, fetchBaseQuery } from '@reduxjs/toolkit/query/react';
 const authApi = createApi({
     reducerPath: 'authApi',
     baseQuery: fetchBaseQuery({
-        baseUrl: "http://localhost:5000/api/auth",
+        baseUrl: "https://real-state-blog.vercel.app/api/auth",
         credentials: 'include',  // This allows cookies to be included in the requests
     }),
     tagTypes: ["User"],  // Define tag types for caching and invalidation
