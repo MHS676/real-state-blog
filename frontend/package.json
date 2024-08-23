@@ -15,6 +15,7 @@
     "@editorjs/list": "^1.10.0",
     "@editorjs/simple-image": "^1.6.0",
     "@reduxjs/toolkit": "^2.2.7",
+    "dotenv": "^16.4.5",
     "editorjs-html": "^3.4.3",
     "esbuild": "^0.23.1",
     "fast-glob": "^3.3.2",
