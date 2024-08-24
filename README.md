@@ -4,6 +4,10 @@
 
 Check out the live version of the project here: [Live Demo](https://real-state-blog-2wb9.vercel.app)
 
+## Admin
+gmail: hasan1@gmail.com
+pass: 12345678
+
 ## Project Overview
 
 Hotel Rooftop is a web application designed to manage hotel reservations, rooms, and customer interactions efficiently. The application provides a user-friendly interface for hotel staff and customers, ensuring smooth operations and a great user experience.
