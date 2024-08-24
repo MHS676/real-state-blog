@@ -6,6 +6,7 @@ const ContactUs = () => {
     email: '',
     message: '',
   });
+  
 
   const handleChange = (e) => {
     setFormData({
