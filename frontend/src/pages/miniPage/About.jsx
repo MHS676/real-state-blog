@@ -3,6 +3,7 @@ import React from 'react';
 const About = () => {
   return (
     <div>
+      
       <section className="bg-white py-16">
         <div className="container mx-auto px-6 lg:px-8">
           <div className="lg:flex lg:items-center lg:space-x-8">
