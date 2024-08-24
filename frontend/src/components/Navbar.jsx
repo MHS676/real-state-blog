@@ -31,10 +31,10 @@ const Navbar = () => {
     ];
 
     return (
-        <header className="bg-white py-6 border-b">
-            <nav className="container mx-auto flex justify-between items-center px-5">
+        <header className="bg-white  border-b">
+            <nav className="container mx-auto flex justify-between items-center px-2">
                 <Link to="/">
-                    <img src="/logo.png" alt="Logo" className="h-12" />
+                    <img src="/Blogging!.png" alt="Logo" className="h-24" />
                 </Link>
                 <ul className="sm:flex hidden items-center gap-8">
                     {navlists.map((list, index) => (

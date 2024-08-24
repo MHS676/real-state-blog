@@ -18,13 +18,13 @@ const About = () => {
             <div className="lg:w-1/2 mt-8 lg:mt-0">
               <h2 className="text-3xl font-bold text-gray-800">About Us</h2>
               <p className="mt-4 text-gray-600">
-                Welcome to [Your Company Name], where we are dedicated to [your mission/vision]. With a passion for [industry/niche], we strive to [core activity or value].
+                Welcome to Blogging, where we are dedicated to [your mission/vision]. With a passion for industry, we strive to  value.
               </p>
               <p className="mt-4 text-gray-600">
-                Founded in [Year], we have grown into a team of [number] professionals who are committed to delivering [products/services] that exceed expectations. Our goal is to [specific goals or customer outcomes].
+                Founded in 2024, we have grown into a team of 36 professionals who are committed to delivering services that exceed expectations. Our goal is to given good service.
               </p>
               <p className="mt-4 text-gray-600">
-                At [Your Company Name], we believe in [core values, e.g., innovation, integrity, customer focus]. We are driven by [what motivates you] and are always looking for ways to improve and innovate.
+                At Blogging, we believe in innovation, integrity, customer focus. We are driven and are always looking for ways to improve and innovate.
               </p>
               <a href="/contact" className="mt-8 inline-block bg-indigo-600 text-white py-2 px-4 rounded-lg shadow-lg hover:bg-indigo-500">
                 Get in Touch

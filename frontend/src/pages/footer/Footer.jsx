@@ -7,12 +7,12 @@ const Footer = () => {
         <div className="lg:flex lg:justify-between">
           {/* Company Info */}
           <div className="lg:w-1/3 mb-8 lg:mb-0">
-            <h2 className="text-xl font-bold mb-4">Your Company</h2>
+            <h2 className="text-xl font-bold mb-4">Blogging!</h2>
             <p className="text-gray-400">
               We are committed to delivering the best products and services to our customers. Your satisfaction is our priority.
             </p>
             <p className="text-gray-400 mt-4">
-              © {new Date().getFullYear()} Your Company. All rights reserved.
+              © {new Date().getFullYear()} Blogging!. All rights reserved.
             </p>
           </div>
 

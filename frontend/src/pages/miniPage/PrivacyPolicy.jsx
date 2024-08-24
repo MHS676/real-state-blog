@@ -6,7 +6,7 @@ const PrivacyPolicy = () => {
       <h1 className="text-3xl font-bold text-gray-800 mb-8">Privacy Policy</h1>
       
       <p className="text-gray-600 mb-4">
-        This Privacy Policy describes how [Your Company Name] collects, uses, and shares your personal information when you visit or make a purchase from [your website] (the “Site”).
+        This Privacy Policy describes how Blogging collects, uses, and shares your personal information when you visit or make a purchase from Blogging.
       </p>
       
       <h2 className="text-2xl font-semibold text-gray-800 mt-8 mb-4">Information We Collect</h2>
@@ -33,7 +33,7 @@ const PrivacyPolicy = () => {
       
       <h2 className="text-2xl font-semibold text-gray-800 mt-8 mb-4">Sharing Your Information</h2>
       <p className="text-gray-600 mb-4">
-        We may share your personal information with third parties to help us use your information as described above. For example, we use [Service Provider Name] to power our online store.
+        We may share your personal information with third parties to help us use your information as described above. For example, we use blogging to power our online store.
       </p>
       <p className="text-gray-600 mb-4">
         We may also share your information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.
@@ -46,7 +46,7 @@ const PrivacyPolicy = () => {
       
       <h2 className="text-2xl font-semibold text-gray-800 mt-8 mb-4">Your Rights</h2>
       <p className="text-gray-600 mb-4">
-        Depending on your location, you may have the right to access, correct, update, or request deletion of your personal information. To exercise these rights, please contact us at [Your Contact Information].
+        Depending on your location, you may have the right to access, correct, update, or request deletion of your personal information. To exercise these rights, please contact us at mahadihasansiam2@gmail.com.
       </p>
       
       <h2 className="text-2xl font-semibold text-gray-800 mt-8 mb-4">Changes to This Privacy Policy</h2>
@@ -56,13 +56,13 @@ const PrivacyPolicy = () => {
       
       <h2 className="text-2xl font-semibold text-gray-800 mt-8 mb-4">Contact Us</h2>
       <p className="text-gray-600 mb-4">
-        For more information about our privacy practices, or if you have questions, please contact us by email at [Your Email Address] or by mail using the details provided below:
+        For more information about our privacy practices, or if you have questions, please contact us by email at mahadihasansiam2@gmail.com or by mail using the details provided below:
       </p>
       <address className="not-italic text-gray-600">
-        [Your Company Name] <br />
-        [Your Physical Address] <br />
-        [City, State, ZIP Code] <br />
-        [Country]
+        Blogging <br />
+        Uttara, sector 10 <br />
+        1230 <br />
+        Bangladesh
       </address>
     </div>
   );
