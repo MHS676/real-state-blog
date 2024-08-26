@@ -38,6 +38,9 @@ const SingleBlogCard = ({ blog }) => {
                     />
                 </div>
             )}
+            <div className='mt-6'>
+                {description}
+            </div>
             {/* Blog Details */}
             <div className="mt-8 space-y-4">
                 <div
